@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+background-color: #000;
+}
+
+#div1 {
+  font-size: 100px;
+  font-weight: 600;
+  color: #af0a0a;
+}
+</style>
+
+<body>
+
+<div id="div1" class="fa"></div>
+
+<script>
+function chargebattery() {
+  var a;
+  a = document.getElementById("div1");
+  a.innerHTML = "L";
+  setTimeout(function () {
+      a.innerHTML = "LC";
+    }, 1000);
+  setTimeout(function () {
+      a.innerHTML = "LCT";
+    }, 2000);
+  setTimeout(function () {
+      a.innerHTML = "LCTa";
+    }, 3000);
+  setTimeout(function () {
+      a.innerHTML = "LCTap";
+    }, 4000);
+ setTimeout(function () {
+      a.innerHTML = "LCTapp";
+    }, 5000);
+     setTimeout(function () {
+      a.innerHTML = "LCTapps";
+    }, 6000);
+     setTimeout(function () {
+      a.innerHTML = "LCTapps/1994 STUDIOS";
+    }, 7000);
+ setTimeout(function () {
+      a.innerHTML = "";
+    }, 8000);
+}
+chargebattery();
+setInterval(chargebattery, 9000);
+</script>
+
+
+</body>
+</html>
