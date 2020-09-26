@@ -1,0 +1,36 @@
+I go onto my computer when I can and start writing code. If I can't, or don't have any ideas I watch some YouTube, or I go text my friends. I might also do research on the web or just chat in one of the like 60 or so Discord servers I'm in. Also when I cannot code yet still want to work on a LCTapps/1994 STUDIOS project, I usually just check project settings (varies on project) and make it look reasonably presentable to users before releasing a demo, beta version, or official release.
+
+Though this does not relate to the question; this relates to a part of the answer instead. This is to give a brief explanation of what LCTapps/1994 STUDIOS is (as i gave no proper context when mentioned). LCTapps/1994 STUDIOS are actually two things, so I'll start with LCTapps. LCTapps is a web/software development group created by me. The group hasn't reached towards full establishment though as I still am trying to invite more people to work in the group. "LCTapps" which name means "Lettuce Cobbler Twinkie's applications". This name came to be because the group used to just start out with just me (I'm Lettuce). LCTapps came to form around May in midst of the COVID-19 pandemic after the release of the app hub (https://jsitor.com/p/qjBIQp4IA# [A GitHub release is planned to come out, yet I'm still discussing this with the group]). LCTapps currently has the following projects services up and running:
+
+Lettuce.it (Lettuce.it | The Community Similar to Reddit)
+
+(-branch from Lettuce.it) Lettuce.it update log
+
+the app hub [JSitor]
+
+the app hub Beta [JSitor/GitHub]
+
+Cobbler Droid OS (CDroidOS) [HTMLsave (not available now)]
+
+LCTapps Devmail [GitHub]
+
+LCTapps Marketplace [GitHub]
+
+I also have some other things yet I forgot about
+
+Now, what about 1994 STUDIOS?
+
+1994 STUDIOS is a small branch of LCTapps as it is not focused fully on just software tools and web projects, but rather video games.
+
+1994 STUDIOS came into existence after Midnight Reflection started development (around late June, to early July).
+
+1994 STUDIOS currently have the following projects:
+
+Midnight Reflection [Google Slides]
+
+TwinkieDinks | Google Slide-based Web Visual Novel Engine [Google Slides]
+
+HRunEF [Google Slides]
+
+This sums up the explanation for now...
+
